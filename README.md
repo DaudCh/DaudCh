@@ -1,4 +1,6 @@
-<img align="center" alt="MasterHead" width="100%" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg">
+<!-- MasterHead with adjusted height for responsiveness -->
+<img align="center" alt="MasterHead" style="max-height: 400px; width: 100%; object-fit: cover;" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg">
+
 <h1 align="center">Hi 👋, I'm Daud Ansar</h1>
 <h3 align="center">I have a strong passion for React.js,Django,Python and TailwindCSS . I proudly identify as a Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
